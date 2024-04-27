@@ -1,2 +1,3 @@
 # 6_sem_project
-This is my project for sizth semester
+This is my project for sixth semester
+Yogesh kumar
